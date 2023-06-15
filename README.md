@@ -7,7 +7,7 @@
 
 # 📗 Table of Contents
 
-- [📖 Morse Code Decoder Morse Code Ruby](#-morse-code-decoder-morse-code-ruby)
+- [📖 Morse Code Decoder Morse Code Ruby](#morse-code-decoder)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
