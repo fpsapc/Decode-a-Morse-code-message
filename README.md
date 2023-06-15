@@ -2,8 +2,6 @@
 
 <a name="readme-top"></a>
 <div align="center">
-    <img src="morse.png" alt="logo" width="700"  height="auto" />
-  <br/>
   <h3><b>Morse Code Decoder</b></h3>
 </div>
 # 📗 Table of Contents
@@ -69,7 +67,7 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Alejandroq12/morse-decoder.git
+  git clone https://github.com/fpsapc/Decode-a-Morse-code-message.git
 ```
 
 ### Install
@@ -85,7 +83,7 @@ bundle install
 To run the project, navigate to the project directory and execute the following command:
 
 ```sh
-  ruby morse_tranlator.rb
+  ruby decode_morse_code.rb
 ```
 
 ### Run tests
@@ -109,23 +107,25 @@ Not available at the moment.
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Santiago Munoz**
+👤 **Salman Ahmad Khan**
 
-- GitHub: [@smunoz](https://github.com/smunoz1988)
-- Twitter: [@twitterhandle](https://twitter.com/Santiag24209785)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/santiago-munoz-0b2b1a260)
+- GitHub: [@githubhandle](https://github.com/fpsapc)
+- Twitter: [@twitterhandle](https://twitter.com/fpsapc)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/salman-ahmad1987 )
 
-👤 **Julio Quezada**
 
-- GitHub: [Alejandroq12](https://github.com/Alejandroq12)
-- Twitter: [@JulioAle54](https://twitter.com/JulioAle54)
-- LinkedIn: [Julio Quezada](https://www.linkedin.com/in/quezadajulio/)
+
+👤 **Daniel Falcon**
+
+- GitHub: [@Danfall369](https://github.com/Danfall369)
+- Twitter: [@Danfall369](https://twitter.com/Danfall369)
+- Linkeid [@Danfall369](https://www.linkedin.com/in/danfall369/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **We will add a GUI.**
+- **We will add more features later.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
