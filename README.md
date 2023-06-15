@@ -4,6 +4,7 @@
 <div align="center">
   <h3><b>Morse Code Decoder</b></h3>
 </div>
+
 # 📗 Table of Contents
 
 - [📖 Morse Code Decoder Morse Code Ruby](#-morse-code-decoder-morse-code-ruby)
