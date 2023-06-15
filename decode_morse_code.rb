@@ -35,6 +35,18 @@ def decode(message)
   decoded_message.rstrip
 end
 
-message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
-decoded_message = decode(message)
-puts decoded_message
+message1 = '.-'
+decoded_message1 = decode(message1)
+puts decoded_message1
+
+message2 = '-- -.--'
+decoded_message2 = decode(message2)
+puts decoded_message2
+
+message3 = '-- -.--   -. .- -- .'
+decoded_message3 = decode(message3)
+puts decoded_message3
+
+message4 = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+decoded_message4 = decode(message4)
+puts decoded_message4
