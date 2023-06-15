@@ -23,6 +23,18 @@ def decode_word(morse_word)
   decoded_word
 end
 
+def decode(message)
+  morse_words = message.split('   ')
+  decoded_message = ''
+
+  morse_words.each do |morse_word|
+    decoded_word = decode_word(morse_word)
+    decoded_message += "#{decoded_word} "
+  end
+
+  decoded_message.rstrip
+end
+
 message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_message = decode(message)
 puts decoded_message
