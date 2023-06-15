@@ -5,8 +5,6 @@
   <h3><b>Morse Code Decoder</b></h3>
 </div>
 # 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
 - [📖 Morse Code Decoder Morse Code Ruby](#-morse-code-decoder-morse-code-ruby)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
